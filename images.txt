@@ -1,6 +1,6 @@
 1panel/maxkb
 vinlic/kimi-free-api:latest
-nginx:latest
+nginx
 ubuntu/squid:latest
 langgenius/dify-sandbox:latest
 langgenius/dify-sandbox:0.2.1
