@@ -1,4 +1,4 @@
-halo:2.16.4
+halohub/halo:2.16
 1panel/maxkb
 vinlic/kimi-free-api:latest
 nginx
