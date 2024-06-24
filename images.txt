@@ -1,6 +1,18 @@
-nginx
+1panel/maxkb
+vinlic/kimi-free-api:latest
+nginx:latest
+ubuntu/squid:latest
+langgenius/dify-sandbox:latest
+langgenius/dify-sandbox:0.2.1
+semitechnologies/weaviate:1.19.0
+redis:6-alpine
+postgres:15-alpine
+langgenius/dify-api:0.6.11
+langgenius/dify-web:0.6.11
+xprobe/xinference:latest-cpu
+xprobe/xinference:nightly-main
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
