@@ -4,7 +4,6 @@ halohub/halo:2.16
 vinlic/kimi-free-api:latest
 nginx
 ubuntu/squid:latest
-langgenius/dify-sandbox:latest
 langgenius/dify-sandbox:0.2.1
 semitechnologies/weaviate:1.19.0
 redis:6-alpine
