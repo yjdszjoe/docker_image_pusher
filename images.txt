@@ -2,7 +2,7 @@ nvidia/cuda:12.4.0-devel-ubuntu22.04
 halohub/halo:2.16
 1panel/maxkb
 vinlic/kimi-free-api:latest
-nginx
+nginx:latest
 ubuntu/squid:latest
 langgenius/dify-sandbox:0.2.1
 semitechnologies/weaviate:1.19.0
