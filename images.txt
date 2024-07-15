@@ -1,3 +1,4 @@
+ollama/ollama:0.2.5
 nvidia/cuda:12.4.0-devel-ubuntu22.04
 halohub/halo:2.16
 1panel/maxkb
